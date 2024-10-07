@@ -38,6 +38,25 @@ I'm a **Python Full Stack Developer** with a passion for creating modern, scalab
 - **[Project 2 Name](#)** - A brief description of the project.
 - **[Project 3 Name](#)** - A brief description of the project.
 
+ ## Projects
+### 1. [Project Name](https://github.com/your-username/project-repo)
+**Description**: A brief description of what the project does, the technologies used, and its main features.
+
+- **Tech Stack**: Python, Django, React, SQLite
+- **Features**: User authentication, CRUD operations, responsive design
+- **Live Demo**: [Live Link](https://project-demo-link.com)
+
+---
+
+### 2. [Another Project Name](https://github.com/your-username/another-project-repo)
+**Description**: Description of another project. Mention what the project is about and highlight any key features or challenges you faced.
+
+- **Tech Stack**: React, Tailwind CSS, Firebase
+- **Features**: Real-time updates, API integration
+- **Live Demo**: [Live Link](https://another-project-demo-link.com)
+
+---
+
 ---
 
 ### 🖼️ **Image**
