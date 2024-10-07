@@ -23,7 +23,7 @@ I'm a **Python Full Stack Developer** with a passion for creating modern, scalab
 ### 📊 **GitHub Stats**
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Anilnayak126&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 ---
