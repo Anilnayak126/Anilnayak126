@@ -2,7 +2,7 @@
 
 I'm a full stack developer with a passion for creating dynamic web applications. I specialize in:
 
-- 🌐 Frontend: React, HTML, CSS, JavaScript
+- 🌐 Frontend: React, HTML, CSS, JavaScript,TailwindCss
 - 🖥 Backend: Python, Django, Django Rest Framework
 - 🛠 Tools: Git, GitHub, Figma
 
