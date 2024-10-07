@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋, I'm [Your Name]!
 
-<!--
-**Anilnayak126/Anilnayak126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full stack developer with a passion for creating dynamic web applications. I specialize in:
 
-Here are some ideas to get you started:
+- 🌐 Frontend: React, HTML, CSS, JavaScript
+- 🖥 Backend: Python, Django, Django Rest Framework
+- 🛠 Tools: Git, GitHub, Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **Travel App**: A web application that helps users plan and manage trips.
+- **LMS Clone**: A learning management system developed using React and Tailwind CSS.
+
+## Get in Touch
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [Portfolio](https://your-portfolio.com)
