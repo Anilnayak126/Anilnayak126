@@ -51,7 +51,7 @@ Here's a custom image to highlight my full-stack journey:
 
 ### 📫 **Contact Me**
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Email**: [your-nayakanil43603@gmail.com](mailto:nayakanil43603@gmail.com)
 - **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
 - **Portfolio**: [Your Portfolio](https://yourportfolio.com)
 
