@@ -45,7 +45,7 @@ I'm a **Python Full Stack Developer** with a passion for creating modern, scalab
 Here's a custom image to highlight my full-stack journey:
 
 ![My Full Stack Journey]
-<img src="https://raw.githubusercontent.com/Anilnayak126/Anilnayak126/refs/heads/main/journey.webp" style="width: 100%; height: auto;">
+<img src="https://raw.githubusercontent.com/Anilnayak126/Anilnayak126/refs/heads/main/journey.webp" style="width: 50%; height: auto;">
 
 ---
 
