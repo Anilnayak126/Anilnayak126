@@ -44,7 +44,6 @@ I'm a **Python Full Stack Developer** with a passion for creating modern, scalab
 
 Here's a custom image to highlight my full-stack journey:
 
-![My Full Stack Journey]
 <img src="https://raw.githubusercontent.com/Anilnayak126/Anilnayak126/refs/heads/main/journey.webp" style="width: 50%; height: auto;">
 
 ---
@@ -52,6 +51,6 @@ Here's a custom image to highlight my full-stack journey:
 ### 📫 **Contact Me**
 
 - **Email**: [your-nayakanil43603@gmail.com](mailto:nayakanil43603@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **LinkedIn**: [Anil Kumar Nayak](https://www.linkedin.com/in/anil-kumar-nayak)
 - **Portfolio**: [Your Portfolio](https://yourportfolio.com)
 
