@@ -37,23 +37,24 @@ I'm a **Python Full Stack Developer** with a passion for creating modern, scalab
 
 ### 🚀 **Projects**
 ### 1. [CRM APP](https://github.com/your-username/project-repo)
-**Description**: A brief description of what the project does, the technologies used, and its main features.
+**Description**: It's a project on customer relationship management using django ,In this project a authenticates user can manage data, and if a user dont have any account a user can login and logout register.
 
-- **Tech Stack**: Python, Django, React, SQLite
+- **Tech Stack**: Python, Django, SQLite
 - **Features**: User authentication, CRUD operations, responsive design
 - **Live Demo**: [Live Link](https://project-demo-link.com)
 
 ---
 
-### 2. [Another Project Name](https://github.com/your-username/another-project-repo)
-**Description**: Description of another project. Mention what the project is about and highlight any key features or challenges you faced.
+### 2. [CRUD APP](https://github.com/Anilnayak126/CRUD.git)
+**Description**: in this web app , i have implemented CRUD opertions using django restframework.
 
-- **Tech Stack**: React, Tailwind CSS, Firebase
+- **Tech Stack**: React, Tailwind CSS, DajngoRestframaework,Django,
 - **Features**: Real-time updates, API integration
 - **Live Demo**: [Live Link](https://another-project-demo-link.com)
 
 ---
-
+### 2. [FOR MORE PROJECTS..](https://github.com/Anilnayak126/CRUD.git)
+**Description**: you can see my repo i have deployed project. you can find project link by its you can see my  project demo.
 ---
 
 ### 🖼️ **Image**
