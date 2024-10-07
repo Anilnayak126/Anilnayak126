@@ -11,5 +11,5 @@ I'm a full stack developer with a passion for creating dynamic web applications.
 - **LMS Clone**: A learning management system developed using React and Tailwind CSS.
 
 ## Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [LinkedIn](www.linkedin.com/in/anil-kumar-nayak)
 - [Portfolio](https://your-portfolio.com)
