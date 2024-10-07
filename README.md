@@ -64,13 +64,6 @@ Here's a custom image to highlight my full-stack journey:
 <img src="https://raw.githubusercontent.com/Anilnayak126/Anilnayak126/refs/heads/main/journey.webp" style="width: 50%; height: auto;">
 
 ---
-
-### 📫 **Contact Me**
-
-- **Email**: [your-nayakanil43603@gmail.com](mailto:nayakanil43603@gmail.com)
-- **LinkedIn**: [Anil Kumar Nayak](https://www.linkedin.com/in/anil-kumar-nayak)
-- **Portfolio**: [Your Portfolio](https://yourportfolio.com)
-
 ## 📞 Contact Me
 
 If you would like to get in touch, feel free to reach out through any of the platforms below:
@@ -78,7 +71,7 @@ If you would like to get in touch, feel free to reach out through any of the pla
 <p align="left">
   <a href="mailto:nayakanil43603@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/anil-kumar-nayak"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://github.com/Anilnayak126"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
 </p>
 
