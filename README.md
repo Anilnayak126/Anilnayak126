@@ -32,14 +32,11 @@ I'm a **Python Full Stack Developer** with a passion for creating modern, scalab
 
 ---
 
+
+
+
 ### 🚀 **Projects**
-
-- **[Project 1 Name](#)** - A brief description of the project.
-- **[Project 2 Name](#)** - A brief description of the project.
-- **[Project 3 Name](#)** - A brief description of the project.
-
- ## Projects
-### 1. [Project Name](https://github.com/your-username/project-repo)
+### 1. [CRM APP](https://github.com/your-username/project-repo)
 **Description**: A brief description of what the project does, the technologies used, and its main features.
 
 - **Tech Stack**: Python, Django, React, SQLite
