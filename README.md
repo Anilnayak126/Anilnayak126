@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]!
+# Hi there 👋, I'm Anil Nayak!
 
 I'm a full stack developer with a passion for creating dynamic web applications. I specialize in:
 
