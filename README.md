@@ -53,9 +53,9 @@ I'm a **Python Full Stack Developer** with a passion for creating modern, scalab
 - **Live Demo**: [Live Link](https://another-project-demo-link.com)
 
 ---
-### 2. [FOR MORE PROJECTS..](https://github.com/Anilnayak126/CRUD.git)
+### 3. [FOR MORE PROJECTS..](https://github.com/Anilnayak126/CRUD.git)
 **Description**: you can see my repo i have deployed project. you can find project link by its you can see my  project demo.
----
+
 
 ### 🖼️ **Image**
 
