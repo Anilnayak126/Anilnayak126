@@ -1,0 +1,30 @@
+name: Update Snake
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Update every hour
+  workflow_dispatch:
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate Snake
+        uses: platane/snk@master
+        with:
+          github_user: Anilnayak126
+          svg_out_path: github-contribution-grid-snake.svg
+          png_out_path: github-contribution-grid-snake.png
+
+      - name: Commit & push if SVG changed
+        uses: EndBug/add-and-commit@v7
+        with:
+          author_name: github-actions
+          author_email: github-actions@github.com
+          message: "Update snake"
+          file: github-contribution-grid-snake.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
