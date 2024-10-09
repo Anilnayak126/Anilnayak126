@@ -71,7 +71,7 @@ I'm a **Python Full Stack Developer** with a passion for creating modern, scalab
 <p align="center">
     <a href="https://github.com/Anilnayak126?tab=repositories">
         <img src="https://github.com/Anilnayak126/github-contribution-grid-snake.svg" alt="Git Commits Snake" />
-    </a>
+</a>
 </p>
 
 
