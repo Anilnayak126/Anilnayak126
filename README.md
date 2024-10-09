@@ -65,6 +65,8 @@ I'm a **Python Full Stack Developer** with a passion for creating modern, scalab
 </div>
 
 ---
+📞 Contact Me
+If you would like to get in touch, feel free to reach out through any of the platforms below:
 
 <p align="left"> <a href="mailto:nayakanil43603@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://www.linkedin.com/in/anil-kumar-nayak"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://github.com/Anilnayak126"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a> </p>
 
