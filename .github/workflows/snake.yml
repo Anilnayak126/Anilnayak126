@@ -16,8 +16,8 @@ jobs:
         uses: platane/snk@master
         with:
           github_user: Anilnayak126
-          svg_out_path: github-contribution-grid-snake.svg
-          png_out_path: github-contribution-grid-snake.png
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          png_out_path: dist/github-contribution-grid-snake.png
 
       - name: Commit & push if SVG changed
         uses: EndBug/add-and-commit@v7
