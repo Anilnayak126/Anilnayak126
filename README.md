@@ -75,9 +75,9 @@ I'm a **Python Full Stack Developer** with a passion for creating modern, scalab
 </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anilnayak126&label=Profile%20views&color=0e75b6&style=flat" alt="anilnayak126" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=anilnayak126&label=Profile%20views&color=0e75b6&style=flat" alt="anilnayak126" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anilnayak126" alt="anilnayak126" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anilnayak126" alt="anilnayak126" /></a> </p>
 
 ---
 
@@ -85,7 +85,7 @@ I'm a **Python Full Stack Developer** with a passion for creating modern, scalab
 
 **If you would like to get in touch, feel free to reach out through any of the platforms below:**
 
-<p align="left">
+<p align="center">
     <a href="mailto:nayakanil43603@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> <a href="https://www.linkedin.com/in/anil-kumar-nayak"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://github.com/Anilnayak126"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> <a href="https://yourportfolio.com"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"> </a> <a href="https://medium.com/@nayakanil43603" target="blank"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"> </a> <a href="https://www.hackerrank.com/nayakanil43603" target="blank"> <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"> </a>
 </p>
 
