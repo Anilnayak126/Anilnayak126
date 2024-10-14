@@ -95,6 +95,8 @@ I'm a **Python Full Stack Developer** with a passion for creating modern, scalab
     <a href="https://yourportfolio.com">
         <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
     </a>
+   <a href="https://medium.com/@nayakanil43603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nayakanil43603" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@nayakanil43603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@nayakanil43603" height="30" width="40" /></a>
 </p>
 
 ---
