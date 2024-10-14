@@ -75,11 +75,9 @@ I'm a **Python Full Stack Developer** with a passion for creating modern, scalab
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anilnayak126&show_icons=true&locale=en&layout=compact" alt="anilnayak126" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anilnayak126&label=Profile%20views&color=0e75b6&style=flat" alt="anilnayak126" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anilnayak126&show_icons=true&locale=en" alt="anilnayak126" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anilnayak126&" alt="anilnayak126" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anilnayak126" alt="anilnayak126" /></a> </p>
 
 ---
 
