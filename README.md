@@ -75,6 +75,11 @@ I'm a **Python Full Stack Developer** with a passion for creating modern, scalab
 </p>
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anilnayak126&show_icons=true&locale=en&layout=compact" alt="anilnayak126" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anilnayak126&show_icons=true&locale=en" alt="anilnayak126" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anilnayak126&" alt="anilnayak126" /></p>
 
 ---
 
