@@ -90,5 +90,4 @@ I'm a **Python Full Stack Developer** with a passion for creating modern, scalab
 </p>
 
 ---
-
-Looking forward to collaborating with you! 🚀
+**Looking forward to collaborating with you! 🚀
