@@ -22,7 +22,6 @@ I'm a **Python Full Stack Developer** with a passion for creating modern, scalab
 </div>
 
 ---
-[![Postman API Fundamentals Student Expert](https://api.badgr.io/public/assertions/M586XiQdTCeRsoXSQ4opSQ/image)](https://api.badgr.io/public/assertions/M586XiQdTCeRsoXSQ4opSQ?identity__email=nayakanil43603%40gmail.com)
 
 ### 📊 **GitHub Stats**
 
