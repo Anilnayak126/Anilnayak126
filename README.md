@@ -19,10 +19,10 @@ I'm a **Python Full Stack Developer** with a passion for creating modern, scalab
    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-   <iframe src="https://api.badgr.io/public/assertions/M586XiQdTCeRsoXSQ4opSQ?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=nayakanil43603%40gmail.com" title="Badge: Postman API Fundamentals Student Expert" style="width: 330px; height: 191px; border: 0px;"></iframe>
 </div>
 
 ---
+[![Postman API Fundamentals Student Expert](https://api.badgr.io/public/assertions/M586XiQdTCeRsoXSQ4opSQ/image)](https://api.badgr.io/public/assertions/M586XiQdTCeRsoXSQ4opSQ?identity__email=nayakanil43603%40gmail.com)
 
 ### 📊 **GitHub Stats**
 
