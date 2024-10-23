@@ -6,6 +6,11 @@
         <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+mono&size=40&duration=4000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+ Anil+Nayak;This+is..;..my+Github..;" alt="Typing SVG"/>
     </h1>
 </div>
+## Overview
+
+I'm a **Python Full Stack Developer** with a passion for creating modern, scalable web applications. I love solving complex problems and turning ideas into reality using the latest technologies.
+
+---
 
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anilnayak126&theme=github_dark" alt="Anilnayak126's GitHub Stats"/>
@@ -22,11 +27,6 @@
     </tr>
 </table>
 
-## Overview
-
-I'm a **Python Full Stack Developer** with a passion for creating modern, scalable web applications. I love solving complex problems and turning ideas into reality using the latest technologies.
-
----
 
 ### 🛠️ **Tech Stack & Skills**
 
