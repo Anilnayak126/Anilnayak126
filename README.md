@@ -8,16 +8,16 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anilnayak126&theme=github_dark" alt="Anilnayak126's GitHub Stats"/>
 </div>
 
+<br>
 
-<table align="center" width="100%" height="100%" >
+<table align="center" width="100%" height="100%">
     <tr>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anilnayak126&theme=github_dark" alt="Zane's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zanepearton&theme=github_dark&utcOffset=10" alt="Zane's GitHub Stats"/>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anilnayak126&theme=github_dark" alt="Zane's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anilnayak126&theme=github_dark" alt="Zane's GitHub Stats"/></td>
+        <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anilnayak126&theme=github_dark" alt="Anil's GitHub Stats"/></td>
+        <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anilnayak126&theme=github_dark&utcOffset=10" alt="Productive Time"/></td>
+        <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anilnayak126&theme=github_dark" alt="Repos per Language"/></td>
+        <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anilnayak126&theme=github_dark" alt="Most Commit Language"/></td>
     </tr>
- </table>
-
+</table>
 
 ## Overview
 
@@ -52,8 +52,9 @@ I'm a **Python Full Stack Developer** with a passion for creating modern, scalab
 ---
 
 ### 🚀 **Projects**
+
 ### 1. [CRM APP](https://github.com/your-username/project-repo)
-**Description**: It's a project on customer relationship management using Django. In this project, an authenticated user can manage data, and if a user doesn't have an account, they can log in, log out, or register.
+**Description**: A project on customer relationship management using Django. In this project, authenticated users can manage data, and non-authenticated users can log in, log out, or register.
 
 - **Tech Stack**: Python, Django, SQLite
 - **Features**: User authentication, CRUD operations, responsive design
@@ -62,7 +63,7 @@ I'm a **Python Full Stack Developer** with a passion for creating modern, scalab
 ---
 
 ### 2. [CRUD APP](https://github.com/Anilnayak126/CRUD.git)
-**Description**: In this web app, I have implemented CRUD operations using Django Rest Framework.
+**Description**: A web app implementing CRUD operations using Django Rest Framework.
 
 - **Tech Stack**: React, Tailwind CSS, Django Rest Framework, Django
 - **Features**: Real-time updates, API integration
@@ -71,7 +72,7 @@ I'm a **Python Full Stack Developer** with a passion for creating modern, scalab
 ---
 
 ### 3. [FOR MORE PROJECTS..](https://github.com/Anilnayak126/CRUD.git)
-**Description**: You can see my repository where I have deployed projects. You can find project links and demos.
+**Description**: Check out my GitHub for more deployed projects. You can find links and demos there.
 
 ---
 
@@ -79,7 +80,6 @@ I'm a **Python Full Stack Developer** with a passion for creating modern, scalab
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anilnayak126&theme=radical" alt="Git Commits Streak" />
-    
 </div>
 
 ---
@@ -92,20 +92,29 @@ I'm a **Python Full Stack Developer** with a passion for creating modern, scalab
     </a>
 </p>
 
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=anilnayak126&label=Profile%20views&color=0e75b6&style=flat" alt="anilnayak126" />
+</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=anilnayak126&label=Profile%20views&color=0e75b6&style=flat" alt="anilnayak126" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anilnayak126" alt="anilnayak126" /></a> </p>
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anilnayak126" alt="anilnayak126" /></a>
+</p>
 
 ---
 
 ### 📞 **Contact Me**
 
-**If you would like to get in touch, feel free to reach out through any of the platforms below:**
+**Feel free to get in touch through any platform below:**
 
 <p align="center">
-    <a href="mailto:nayakanil43603@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> <a href="https://www.linkedin.com/in/anil-kumar-nayak"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://github.com/Anilnayak126"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> <a href="https://anilzportfolio.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"> </a> <a href="https://medium.com/@nayakanil43603" target="blank"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"> </a> <a href="https://www.hackerrank.com/nayakanil43603" target="blank"> <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"> </a>
+    <a href="mailto:nayakanil43603@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> 
+    <a href="https://www.linkedin.com/in/anil-kumar-nayak"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
+    <a href="https://github.com/Anilnayak126"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> 
+    <a href="https://anilzportfolio.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"> </a> 
+    <a href="https://medium.com/@nayakanil43603" target="blank"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"> </a> 
+    <a href="https://www.hackerrank.com/nayakanil43603" target="blank"> <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"> </a>
 </p>
 
 ---
+
 ### Looking forward to collaborating with you! 🚀
