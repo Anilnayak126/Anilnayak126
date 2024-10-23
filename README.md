@@ -43,7 +43,6 @@ I'm a **Python Full Stack Developer** with a passion for creating modern, scalab
 <br>
 
 
-
 <table align="center" width="100%" height="100%">
     <tr>
         <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anilnayak126&theme=github_dark" alt="Anil's GitHub Stats"/></td>
@@ -56,7 +55,7 @@ I'm a **Python Full Stack Developer** with a passion for creating modern, scalab
 
 
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Anilnayak126's GitHub Stats"/>
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
     <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="Anilnayak" width="400" />
@@ -75,32 +74,7 @@ I'm a **Python Full Stack Developer** with a passion for creating modern, scalab
 </div>
 
 
----
-
-### 🚀 **Projects**
-
-### 1. [CRM APP](https://github.com/your-username/project-repo)
-**Description**: A project on customer relationship management using Django. In this project, authenticated users can manage data, and non-authenticated users can log in, log out, or register.
-
-- **Tech Stack**: Python, Django, SQLite
-- **Features**: User authentication, CRUD operations, responsive design
-- **Live Demo**: [Live Link](https://project-demo-link.com)
-
----
-
-### 2. [CRUD APP](https://github.com/Anilnayak126/CRUD.git)
-**Description**: A web app implementing CRUD operations using Django Rest Framework.
-
-- **Tech Stack**: React, Tailwind CSS, Django Rest Framework, Django
-- **Features**: Real-time updates, API integration
-- **Live Demo**: [Live Link](https://another-project-demo-link.com)
-
----
-
-### 3. [FOR MORE PROJECTS..](https://github.com/Anilnayak126/CRUD.git)
-**Description**: Check out my GitHub for more deployed projects. You can find links and demos there.
-
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Anilnayak126's GitHub Stats"/>
 
 ### 📈 **Git Commits Analytics**
 
@@ -108,7 +82,7 @@ I'm a **Python Full Stack Developer** with a passion for creating modern, scalab
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anilnayak126&theme=radical" alt="Git Commits Streak" />
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Anilnayak126's GitHub Stats"/>
 
 ### 🐍 **Git Commits Snake Game**
 
@@ -126,7 +100,7 @@ I'm a **Python Full Stack Developer** with a passion for creating modern, scalab
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anilnayak126" alt="anilnayak126" /></a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Anilnayak126's GitHub Stats"/>
 
 ### 📞 **Contact Me**
 
@@ -141,7 +115,7 @@ I'm a **Python Full Stack Developer** with a passion for creating modern, scalab
     <a href="https://www.hackerrank.com/nayakanil43603" target="blank"> <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"> </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Anilnayak126's GitHub Stats"/>
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Anilnayak"/>
