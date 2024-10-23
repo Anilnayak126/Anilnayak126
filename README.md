@@ -4,6 +4,10 @@
     </h1>
 </div>
 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Anilnayak126/Anilnayak126/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+</div>
+
 
 ## Overview
 
