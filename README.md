@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Anilnayak126/Anilnayak126/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anilnayak126&theme=github_dark" alt="Anilnayak126's GitHub Stats"/>
 </div>
 
 
