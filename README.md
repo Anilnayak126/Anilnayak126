@@ -55,6 +55,8 @@ I'm a **Python Full Stack Developer** with a passion for creating modern, scalab
     <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="Anilnayak" width="400" />
 </div>
 
+ <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" alt="Anilnayak" width="400" />
+
 
 ### 📊 **GitHub Stats**
 
