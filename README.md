@@ -11,14 +11,14 @@
 
 I'm a **Python Full Stack Developer** with a passion for creating modern, scalable web applications. I love solving complex problems and turning ideas into reality using the latest technologies.
 
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Anilnayak126's GitHub Stats"/>
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anilnayak126&theme=github_dark" alt="Anilnayak126's GitHub Stats"/>
 </div>
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Anilnayak126's GitHub Stats"/>
+
 
 <table align="center" width="100%" height="100%">
     <tr>
