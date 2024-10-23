@@ -121,4 +121,8 @@ I'm a **Python Full Stack Developer** with a passion for creating modern, scalab
 
 ---
 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Anilnayak"/>
+</div>
+
 ### Looking forward to collaborating with you! 🚀
