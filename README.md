@@ -14,6 +14,27 @@
 
 I'm a **Python Full Stack Developer** with a passion for creating modern, scalable web applications. I love solving complex problems and turning ideas into reality using the latest technologies.
 
+### 🛠️ **Tech Stack & Skills**
+
+<div align="center">
+   <lottie-player src="https://assets10.lottiefiles.com/packages/lf20_zyamqvfu.json" background="transparent" speed="1" style="width: 100px; height: 100px;" loop autoplay></lottie-player>
+   <lottie-player src="https://assets10.lottiefiles.com/packages/lf20_qf7l6wzu.json" background="transparent" speed="1" style="width: 100px; height: 100px;" loop autoplay></lottie-player>
+</div>
+
+
+<div align="center">
+   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+   <img src="https://img.shields.io/badge/DRF-DjangoRestFramework-red?style=for-the-badge&logo=django&logoColor=white" alt="Django Rest Framework" />
+   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</div>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Anilnayak126's GitHub Stats"/>
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anilnayak126&theme=github_dark" alt="Anilnayak126's GitHub Stats"/>
@@ -32,20 +53,7 @@ I'm a **Python Full Stack Developer** with a passion for creating modern, scalab
     </tr>
 </table>
 
-### 🛠️ **Tech Stack & Skills**
 
-<div align="center">
-   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-   <img src="https://img.shields.io/badge/DRF-DjangoRestFramework-red?style=for-the-badge&logo=django&logoColor=white" alt="Django Rest Framework" />
-   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</div>
 
 
 ---
