@@ -106,6 +106,7 @@ I'm a **Python Full Stack Developer** with a passion for creating modern, scalab
 
 **Feel free to get in touch through any platform below:**
 
+<div align="center">
 <p align="center">
     <a href="mailto:nayakanil43603@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> 
     <a href="https://www.linkedin.com/in/anil-kumar-nayak"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
@@ -114,6 +115,7 @@ I'm a **Python Full Stack Developer** with a passion for creating modern, scalab
     <a href="https://medium.com/@nayakanil43603" target="blank"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"> </a> 
     <a href="https://www.hackerrank.com/nayakanil43603" target="blank"> <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"> </a>
 </p>
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Anilnayak126's GitHub Stats"/>
 
