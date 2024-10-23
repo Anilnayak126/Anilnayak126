@@ -13,7 +13,7 @@
 ### *Overview*
 
 I'm a **Python Full Stack Developer** with a passion for creating modern, scalable web applications. I love solving complex problems and turning ideas into reality using the latest technologies.
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Anilnayak126's GitHub Stats"/>
 ### 🛠️ **Tech Stack & Skills**
 
 <div align="center">
