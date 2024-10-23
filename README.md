@@ -18,6 +18,8 @@ I'm a **Python Full Stack Developer** with a passion for creating modern, scalab
 
 <br>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Anilnayak126's GitHub Stats"/>
+
 <table align="center" width="100%" height="100%">
     <tr>
         <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anilnayak126&theme=github_dark" alt="Anil's GitHub Stats"/></td>
@@ -26,10 +28,8 @@ I'm a **Python Full Stack Developer** with a passion for creating modern, scalab
         <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anilnayak126&theme=github_dark" alt="Most Commit Language"/></td>
     </tr>
 </table>
+---
 
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Anilnayak"/>
-</div>
 ### 🛠️ **Tech Stack & Skills**
 
 <div align="center">
@@ -45,6 +45,7 @@ I'm a **Python Full Stack Developer** with a passion for creating modern, scalab
    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </div>
 
+
 ---
 
 ### 📊 **GitHub Stats**
@@ -53,6 +54,7 @@ I'm a **Python Full Stack Developer** with a passion for creating modern, scalab
     <img src="https://github-readme-stats.vercel.app/api?username=Anilnayak126&show_icons=true&theme=radical" alt="GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anilnayak126&layout=compact&theme=radical" alt="Top Languages" />
 </div>
+
 
 ---
 
