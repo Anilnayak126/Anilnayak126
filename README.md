@@ -31,7 +31,6 @@ I'm a **Python Full Stack Developer** with a passion for creating modern, scalab
         <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anilnayak126&theme=github_dark" alt="Most Commit Language"/></td>
     </tr>
 </table>
----
 
 ### 🛠️ **Tech Stack & Skills**
 
@@ -50,6 +49,10 @@ I'm a **Python Full Stack Developer** with a passion for creating modern, scalab
 
 
 ---
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="Anilnayak"/>
+</div>
 
 ### 📊 **GitHub Stats**
 
