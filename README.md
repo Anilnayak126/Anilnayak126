@@ -79,8 +79,7 @@ I'm a **Python Full Stack Developer** with a passion for creating modern, scalab
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anilnayak126&theme=radical" alt="Git Commits Streak" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anilnayak126&theme=radical" alt="Repos per Language" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anilnayak126&theme=radical" alt="Most Commit Language" />
+    
 </div>
 
 ---
