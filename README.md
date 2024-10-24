@@ -123,7 +123,7 @@ I'm a **Python Full Stack Developer** with a passion for creating modern, scalab
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Anilnayak126's GitHub Stats"/>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Anilnayak"/>
+    <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Anilnayak" width="400px"/>
 </div>
 
 ### Looking forward to collaborating with you! 🚀 
