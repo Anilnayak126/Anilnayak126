@@ -15,17 +15,6 @@
 I'm a **Python Full Stack Developer** with a passion for creating modern, scalable web applications. I love solving complex problems and turning ideas into reality using the latest technologies.
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Anilnayak126's GitHub Stats"/>
 ### 🛠️ **Tech Stack & Skills**
-<div align="center" style="display: flex; justify-content: center; gap: 10px;>
-<img src="" alt="Anilnayak126's GitHub Stats"/>
-<img src="https://github.com/user-attachments/assets/cfc4cb85-235d-4c8b-9560-e315bc02bda0" alt="Anilnayak126's GitHub Stats" width='100px'/>
-<img src="https://github.com/user-attachments/assets/e9a9bc2f-1bb0-4890-a30a-4de974fdff99" alt="Anilnayak126's GitHub Stats" width='100px'/>
-<img src="https://github.com/user-attachments/assets/846db6ce-8806-4a17-b386-facebea39ea2" alt="Anilnayak126's GitHub Stats" width='100px'/>
-<img src="https://github.com/user-attachments/assets/71894303-9d52-4a21-a03a-c579fd2cde7c" alt="Anilnayak126's GitHub Stats" width='100px'/>
-<img src="https://github.com/user-attachments/assets/5e5895c9-d491-4600-918f-1e0524e5f662" alt="Anilnayak126's GitHub Stats" width='100px'/>
-<img src="https://github.com/user-attachments/assets/2ec3f535-c275-4e24-8be6-00b4068004b6" alt="Anilnayak126's GitHub Stats" width='100px'/>
-
-
-</div>
 
 <div align="center">
    <lottie-player src="https://assets10.lottiefiles.com/packages/lf20_zyamqvfu.json" background="transparent" speed="1" style="width: 100px; height: 100px;" loop autoplay></lottie-player>
