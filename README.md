@@ -19,6 +19,12 @@ I'm a **Python Full Stack Developer** with a passion for creating modern, scalab
 ![image](https://github.com/user-attachments/assets/19c39870-b248-4ae5-8372-d57d5917fec0)
 ![image](https://github.com/user-attachments/assets/e9a9bc2f-1bb0-4890-a30a-4de974fdff99)
 ![image](https://github.com/user-attachments/assets/846db6ce-8806-4a17-b386-facebea39ea2)
+<img src="" alt="Anilnayak126's GitHub Stats"/>
+<img src="https://github.com/user-attachments/assets/19c39870-b248-4ae5-8372-d57d5917fec0" alt="Anilnayak126's GitHub Stats"/>
+<img src="https://github.com/user-attachments/assets/e9a9bc2f-1bb0-4890-a30a-4de974fdff99" alt="Anilnayak126's GitHub Stats"/>
+<img src="https://github.com/user-attachments/assets/846db6ce-8806-4a17-b386-facebea39ea2" alt="Anilnayak126's GitHub Stats"/>
+
+
 </div>
 
 <div align="center">
