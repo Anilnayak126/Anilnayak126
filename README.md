@@ -95,7 +95,7 @@ I'm a **Python Full Stack Developer** with a passion for creating modern, scalab
         <img src="https://github.com/Anilnayak126/github-contribution-grid-snake.svg" alt="Git Commits Snake" />
     </a>
 </p>
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Anilnayak126's GitHub Stats"/>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=anilnayak126&label=Profile%20views&color=0e75b6&style=flat" alt="anilnayak126" />
 </p>
