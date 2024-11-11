@@ -3,7 +3,7 @@
     <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/refs/heads/master/images/welcome.png" alt="Anilnayak"/>
 </div>
 <div align="center">
-    h1>
+    <h1>
        <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+mono&size=40&duration=4000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+ Anil+Nayak;This+is..;..my+Github..;" alt="Typing SVG"/>
     </h1>
 </div>
