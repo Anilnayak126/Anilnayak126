@@ -1,30 +1,95 @@
-name: Update Snake
+name: GitHub Snake Game
+
+
 
 on:
+
+  # Schedule the workflow to run daily at midnight UTC
+
   schedule:
-    - cron: '0 * * * *'  # Update every hour
+
+    - cron: "0 0 * * *"
+
+
+
+  # Allow manual triggering of the workflow
+
   workflow_dispatch:
 
+
+
+  # Trigger the workflow on pushes to the main branch
+
+  push:
+
+    branches:
+
+      - main
+
+
+
 jobs:
-  generate-snake:
+
+  generate:
+
     runs-on: ubuntu-latest
+
+    timeout-minutes: 10
+
+
+
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
 
-      - name: Generate Snake
-        uses: platane/snk@master
-        with:
-          github_user: Anilnayak126
-          svg_out_path: github-contribution-grid-snake.svg
-          png_out_path: github-contribution-grid-snake.png
+      # Step 1: Checkout the repository
 
-      - name: Commit & push if SVG changed
-        uses: EndBug/add-and-commit@v7
+      - name: Checkout Repository
+
+        uses: actions/checkout@v3
+
+
+
+      # Step 2: Generate the snake animations
+
+      - name: Generate GitHub Contributions Snake Animations
+
+        uses: Platane/snk@v3
+
         with:
-          author_name: github-actions
-          author_email: github-actions@github.com
-          message: "Update snake"
-          file: github-contribution-grid-snake.svg
+
+          # GitHub username to generate the animation for
+
+          github_user_name: ${{ github.repository_owner }}
+
+
+
+          # Define the output files and their configurations
+
+          outputs: |
+
+            dist/github-snake.svg
+
+            dist/github-snake-dark.svg?palette=github-dark
+
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
         env:
+
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+
+      # Step 3: Deploy the generated files to the 'output' branch
+
+      - name: Deploy to Output Branch
+
+        uses: peaceiris/actions-gh-pages@v3
+
+        with:
+
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+          publish_dir: ./dist
+
+          publish_branch: output
+
+          
