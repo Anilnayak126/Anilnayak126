@@ -114,7 +114,7 @@ Loading weekly coding stats...
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Anilnayak" width="1000px"/>
+     ### Looking forward to collaborating with you! 🚀 
 </div>
 
-### Looking forward to collaborating with you! 🚀 
 
