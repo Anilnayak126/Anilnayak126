@@ -1,5 +1,3 @@
-
-
 <div align="center">
     <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/refs/heads/master/images/welcome.png" alt="Anilnayak"/>
 </div>
@@ -16,8 +14,6 @@
 
 ### *Overview📑*
 <div align="center">
-
-
 I'm a **Python Full Stack Developer** with a passion for creating modern, scalable web applications. I love solving complex problems and turning ideas into reality using the latest technologies.
 </div>
 
@@ -84,7 +80,6 @@ Loading weekly coding stats...
     <img align="center" src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" alt="Anilnayak" />
 </div>
 
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Anilnayak126's GitHub Stats"/>
 
 <div align="center">
@@ -106,7 +101,6 @@ Loading weekly coding stats...
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anilnayak126&theme=radical" alt="Git Commits Streak" />
 </div>
-
 
 </div>
 
@@ -151,6 +145,15 @@ Loading weekly coding stats...
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Anilnayak126's GitHub Stats"/>
+
+<div align="center">
+
+### ☕ **Support My Work**
+
+<p align="center">
+    <a href="https://buymeacoffee.com/anilnayak"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
+</p>
+</div>
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Anilnayak" width="1000px"/>
