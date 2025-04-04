@@ -16,10 +16,25 @@
  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Anilnayak"/>
 </div>
 
-### *Overview📑*
+## 🚀 Professional Overview
+
 <div align="center">
-I'm a **Python Full Stack Developer** with a passion for creating modern, scalable web applications. I love solving complex problems and turning ideas into reality using the latest technologies.
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=33FF33&center=true&vCenter=true&width=800&height=80&lines=Data+Structures+%26+Algorithms+Expert;Python+Full+Stack+Developer;Competitive+Programming+Specialist;Building+Optimized+Solutions;LeetCode+%7C+Codeforces+%7C+CodeChef;System+Design+Architect" alt="DSA Typing Animation" />
+
+  <svg width="800" height="2" xmlns="http://www.w3.org/2000/svg">
+    <line x1="0" y1="1" x2="800" y2="1" stroke="#33FF33" stroke-width="2" stroke-dasharray="5,5" />
+  </svg>
+
+  <div style="max-width: 800px; margin: 20px auto; padding: 20px; background: rgba(51, 255, 51, 0.1); border-radius: 10px; border-left: 4px solid #33FF33;">
+    <p style="font-size: 18px; line-height: 1.6; color: #e0e0e0;">
+      I'm a <span style="color: #33FF33; font-weight: bold;">Python Full Stack Developer</span> with a passion for creating modern, scalable web applications. I love solving complex problems and turning ideas into reality using the latest technologies.
+    </p>
+  </div>
+
 </div>
+
+
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Anilnayak126's GitHub Stats"/>
 
