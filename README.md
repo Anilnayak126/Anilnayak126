@@ -13,7 +13,7 @@
  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Anilnayak"/>
 </div>
 
-## 🚀 Professional Overview
+<h2 align="center">  Professional Overview </h2>
 
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=33FF33&center=true&vCenter=true&width=800&height=80&lines=Data+Structures+%26+Algorithms+Expert;Full+Stack+Developer;Competitive+Programming+Specialist;Building+Optimized+Solutions;LeetCode+%7C+Codeforces+%7C+CodeChef;System+Design+Architect" alt="DSA Typing Animation" />
