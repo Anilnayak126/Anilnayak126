@@ -1,4 +1,3 @@
-
 <div align="center">
     <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/refs/heads/master/images/welcome.png" alt="Anilnayak"/>
 </div>
@@ -50,15 +49,15 @@
 </div>
 
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=33FF33&center=true&vCenter=true&width=800&height=80&lines=Data+Structures+%26+Algorithms+Expert;Full+Stack+Developer;Competitive+Programming+Specialist;Building+Optimized+Solutions;LeetCode+%7C+Codeforces+%7C+CodeChef;System+Design+Architect" alt="DSA Typing Animation" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=33FF33&center=true&vCenter=true&width=900&height=100&lines=Data+Structures+%26+Algorithms+Expert;Full+Stack+Developer;MLOps+%7C+LLMOps+%7C+AI+Infrastructure;Competitive+Programming+Specialist;Building+Optimized+Deployment+Pipelines;LeetCode+%7C+Codeforces+%7C+CodeChef;System+Design+Architect;Cloud+Infrastructure+%28AWS+VPC%29" alt="DSA Typing Animation" />
 
-  <svg width="800" height="2" xmlns="http://www.w3.org/2000/svg">
-    <line x1="0" y1="1" x2="800" y2="1" stroke="#33FF33" stroke-width="2" stroke-dasharray="5,5" />
+  <svg width="900" height="2" xmlns="http://www.w3.org/2000/svg">
+    <line x1="0" y1="1" x2="900" y2="1" stroke="#33FF33" stroke-width="2" stroke-dasharray="5,5" />
   </svg>
 
-  <div style="max-width: 800px; margin: 20px auto; padding: 20px; background: rgba(51, 255, 51, 0.1); border-radius: 10px; border-left: 4px solid #33FF33;">
+  <div style="max-width: 900px; margin: 20px auto; padding: 20px; background: rgba(51, 255, 51, 0.1); border-radius: 10px; border-left: 4px solid #33FF33;">
     <p style="font-size: 18px; line-height: 1.6; color: #e0e0e0;">
-      I'm a <span style="color: #33FF33; font-weight: bold;">Python Full Stack Developer</span> with a passion for creating modern, scalable web applications. I love solving complex problems and turning ideas into reality using the latest technologies.
+      I'm a <span style="color: #33FF33; font-weight: bold;">Python Full Stack Developer</span> at <span style="color: #33FF33; font-weight: bold;">RSB Healthcare Consulting</span>, actively transitioning into <span style="color: #33FF33; font-weight: bold;">MLOps, LLMOps, and AI Infrastructure</span>. I specialize in designing scalable systems, optimizing cloud infrastructure (AWS VPC Endpoints, NAT Gateways), and building production-grade deployment pipelines. I love solving complex problems and transforming ideas into resilient, AI-driven solutions.
     </p>
   </div>
 
@@ -80,6 +79,7 @@
 
 <div align="center">
    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
    <img src="https://img.shields.io/badge/DRF-DjangoRestFramework-red?style=for-the-badge&logo=django&logoColor=white" alt="Django Rest Framework" />
    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
@@ -89,6 +89,15 @@
    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</div>
+
+<div align="center">
+   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+   <img src="https://img.shields.io/badge/MLOps-00A4EF?style=for-the-badge&logo=databricks&logoColor=white" alt="MLOps" />
+   <img src="https://img.shields.io/badge/LLMOps-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLMOps" />
+   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </div>
 </div>
 
@@ -138,16 +147,39 @@ Loading weekly coding stats...
 
 <div align="center">
 
-### 📊 **GitHub Stats**
+### 📊 **Detailed GitHub Analytics**
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Anilnayak126&show_icons=true&theme=radical" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anilnayak126&layout=compact&theme=radical" alt="Top Languages" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anilnayak126&theme=github_dark" alt="Repos per Language" width="49%"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anilnayak126&theme=github_dark" alt="Most Commit Language" width="49%"/>
 </div>
+
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Anilnayak126's GitHub Stats"/>
 
+<div align="center">
 
+### 📈 **Contribution Metrics**
+
+<table align="center">
+    <tr>
+        <td align="center">
+            <strong>Total Repositories</strong><br>
+            <img alt="Total Repos" src="https://img.shields.io/badge/dynamic/json?color=33FF33&label=Repositories&query=public_repos&url=https://api.github.com/users/Anilnayak126&style=for-the-badge"/>
+        </td>
+        <td align="center">
+            <strong>GitHub Followers</strong><br>
+            <img alt="Followers" src="https://img.shields.io/github/followers/Anilnayak126?style=for-the-badge&color=33FF33"/>
+        </td>
+        <td align="center">
+            <strong>Total Gists</strong><br>
+            <img alt="Gists" src="https://img.shields.io/badge/dynamic/json?color=33FF33&label=Gists&query=public_gists&url=https://api.github.com/users/Anilnayak126&style=for-the-badge"/>
+        </td>
+    </tr>
+</table>
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Anilnayak126's GitHub Stats"/>
 
@@ -157,7 +189,6 @@ Loading weekly coding stats...
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anilnayak126&theme=radical" alt="Git Commits Streak" />
-<!--     <img src="https://streak-stats.demolab.com/?user=Anilnayak126&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /> -->
 </div>
 
 </div>
@@ -174,15 +205,32 @@ Loading weekly coding stats...
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Anilnayak126's GitHub Stats"/>
 
 <div align="center">
+
+### 🏆 **GitHub Achievements**
+
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=anilnayak126&label=Profile%20views&color=0e75b6&style=flat" alt="anilnayak126" />
 </p>
 
 <p align="center">
-<!--     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anilnayak126" alt="anilnayak126" /></a> -->
-    <img src="https://github-profile-trophy.vercel.app/?username=Anilnayak126&theme=radical&row=1" alt="GitHub Trophies"/>
-    
+    <img src="https://github-profile-trophy.vercel.app/?username=Anilnayak126&theme=radical&row=1&column=6" alt="GitHub Trophies"/>
 </p>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Anilnayak126's GitHub Stats"/>
+
+<div align="center">
+
+### 💻 **Development Environment**
+
+<p align="center">
+    <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=33FF33" alt="Linux"/>
+    <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=33FF33" alt="VSCode"/>
+    <img src="https://img.shields.io/badge/Terminal-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=33FF33" alt="Bash"/>
+    <img src="https://img.shields.io/badge/Version%20Control-Git-informational?style=flat&logo=git&logoColor=white&color=33FF33" alt="Git"/>
+</p>
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Anilnayak126's GitHub Stats"/>
