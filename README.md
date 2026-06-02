@@ -179,7 +179,7 @@ Loading weekly coding stats...
 </p>
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Anilnayak126&theme=radical&row=1&column=6" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Anilnayak126&theme=radical&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
 </div>
